@@ -1,0 +1,112 @@
+[
+  {
+    "gender": "female",
+    "name": { "title": "Mademoiselle", "first": "Josefina", "last": "Muller" },
+    "email": "josefina.muller@example.com",
+    "phone": "078 455 61 65",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/6.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    }
+  },
+  {
+    "gender": "female",
+    "name": { "title": "Miss", "first": "Paraskeviya", "last": "Moysya" },
+    "email": "paraskeviya.moysya@example.com",
+    "phone": "(098) N29-3638",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/54.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    }
+  },
+  {
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Erik", "last": "Cook" },
+    "email": "erik.cook@example.com",
+    "phone": "031-426-5706",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/48.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    }
+  },
+  {
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Samuel", "last": "Méndez" },
+    "email": "samuel.mendez@example.com",
+    "phone": "996-439-505",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/83.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    }
+  },
+  {
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Lawrence", "last": "Garza" },
+    "email": "lawrence.garza@example.com",
+    "phone": "028 2305 1980",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/63.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    }
+  },
+  {
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Slavolyub", "last": "Dacko" },
+    "email": "slavolyub.dacko@example.com",
+    "phone": "(067) Q59-7332",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/92.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+    }
+  },
+  {
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Giray", "last": "Körmükçü" },
+    "email": "giray.kormukcu@example.com",
+    "phone": "(312)-025-2361",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/11.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    }
+  },
+  {
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Nurdan", "last": "Beşok" },
+    "email": "nurdan.besok@example.com",
+    "phone": "(415)-300-3263",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/61.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    }
+  },
+  {
+    "gender": "female",
+    "name": { "title": "Mademoiselle", "first": "Joy", "last": "Meunier" },
+    "email": "joy.meunier@example.com",
+    "phone": "079 871 78 45",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    }
+  },
+  {
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Anton", "last": "Madsen" },
+    "email": "anton.madsen@example.com",
+    "phone": "30815126",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/11.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    }
+  }
+]
