@@ -1,0 +1,261 @@
+[
+    {
+      "id": 1,
+      "name": "The Kite Runner",
+      "genre": "Literary Realism, Drama",
+      "author": "Khaled Hosseini",
+      "description": "The Kite Runner is a novel about Amir’s quest for redemption and forgiveness after betraying his childhood friend in war-torn Afghanistan.",
+      "published date": "May 29, 2003",
+      "rating": "9.9/10"
+    },
+
+    {
+        "id": 2,
+        "name": "Monsoon",
+        "genre": "Romance, Fiction, Love",
+        "author": "Subin Bhattarai",
+        "description": "Monsoon can be taken as a metaphor for love, how love can be unpredictable and with ups and downs.",
+        "published date": "September 24, 2016",
+        "rating": "9/10"
+      },
+
+      {
+        "id": 3,
+        "name": "Ijoriya",
+        "genre": "Fiction",
+        "author": "Subin Bhattarai",
+        "description": "Ijoriya is a novel about love and self-discovery set in Nepal, exploring the complexities of personal and emotional growth.",
+        "published date": "January 20, 2023",
+        "rating": "10/10"
+      },
+
+      {
+        "id": 4,
+        "name": "MunaMadan",
+        "genre": "Narrative, Epic poetry",
+        "author": "Laxmi Prasad Devkota",
+        "description": "Munamadan is a poignant Nepali epic about a man's hardships and longing as he seeks a better life abroad.",
+        "published date": "January 1, 1936",
+        "rating": "8/10"
+      },
+
+      {
+        "id": 5,
+        "name": "The Diary Of A Young Girl",
+        "genre": "Autobiography, Personal narrative, Jewish literature",
+        "author": "Anne Frank",
+        "description": "The Diary of a Young Girl is an account of a Jewish girl's experiences hiding from the Nazis during World War II, revealing her hopes, and fears as she grows up in hiding.",
+        "published date": "June 25, 1947",
+        "rating": "7/10"
+      },
+
+      {
+        "id": 6,
+        "name": "Ikigai",
+        "genre": "Literary Realism,Drama",
+        "author": " Héctor García, Francesc Miralles",
+        "description": "Ikigai delves into the Japanese philosophy of finding one's purpose in life, offering practical insights and strategies to discover and cultivate personal fulfillment and joy.",
+        "published date": "August 29, 2017",
+        "rating": "7/10"
+      },
+
+      {
+        "id": 7,
+        "name": "The Fifth Mountain",
+        "genre": "Spirituality, Religious Fiction",
+        "author": "Paulo Coelho",
+        "description": "The Fifth Mountain is a novel that follows the biblical prophet's journey of faith, resilience, and self-discovery as he faces trials and challenges to fulfill his divine purpose.",
+        "published date": "January 1, 1996",
+        "rating": "6/10"
+      },
+
+      {
+        "id": 8,
+        "name": "The Spy",
+        "genre": "Spy fiction, Historical Fiction, Biographical Fiction",
+        "author": "Paulo Coelho",
+        "description": "The Spy recounts the life of Mata Hari, exploring her rise to fame and her role as a World War I spy.",
+        "published date": "September 2, 2016",
+        "rating": "6/10"
+      },
+
+      {
+        "id": 9,
+        "name": "The Alchemist",
+        "genre": "Drama, Quest, Fantasy Fiction, Adventure fiction",
+        "author": "Paulo Coelho",
+        "description": " The Alchemist is a philosophical novel a shepherd who dreams of discovering a hidden treasure, and his journey to realize and understand the deeper meaning of life.",
+        "published date": "January 1, 1988",
+        "rating": "8/10"
+      },
+
+      {
+        "id": 10,
+        "name": "Veronika Decides to Die",
+        "genre": "Fiction, Contemporary, Mental Health",
+        "author": "Paulo Coelho",
+        "description": "Veronika Decides to Die follows a young woman who finds herself in a mental institution after a failed suicide attempt, where she discovers new perspectives on life and learns about the value of living fully.",
+        "published date": "January 1, 1998",
+        "rating": "7/10"
+      },
+
+      {
+        "id": 11,
+        "name": "Pride and Prejudice",
+        "genre": "Drama, Satire, Regency romance",
+        "author": "Jane Austen",
+        "description": "Pride and Prejudice is a classic novel about Elizabeth Bennet's journey to love and self-discovery amidst societal expectations and class issues.",
+        "published date": "January 28, 1813",
+        "rating": "6/10"
+      },
+
+      {
+        "id": 12,
+        "name": "Palpasa Cafe",
+        "genre": "Drama, Satire, Regency romance",
+        "author": "Narayan Wagle",
+        "description": "Pride and Prejudice is a classic novel about Elizabeth Bennet's journey to love and self-discovery amidst societal expectations and class issues.",
+        "published date": "January 28, 1813",
+        "rating": "9/10"
+      },
+
+      {
+        "id": 13,
+        "name": "Half Girlfriend",
+        "genre": "Romance Novel",
+        "author": "Chetan Bhagat",
+        "description": "Half Girlfriend is about Madhav and his complicated romance with Riya, a woman from a different cultural background, highlighting the struggles of love and societal expectations.",
+        "published date": "October 1, 2014",
+        "rating": "9/10"
+      },
+
+      {
+        "id": 14,
+        "name": "It Ends With Us",
+        "genre": "Romance novel, Contemporary romance, Adult fiction",
+        "author": "Colleen Hoover",
+        "description": "It Ends with Us is a gripping novel about Lily Bloom, who must navigate difficult choices in love and relationships as her past and present collide.",
+        "published date": "February 29, 2016",
+        "rating": "10/10"
+      },
+
+      {
+        "id": 15,
+        "name": "It Starts With Us",
+        "genre": "Romance novel, Contemporary romance, Adult fiction",
+        "author": "Colleen Hoover",
+        "description": "It Starts with Us follows Lily Bloom as she continues to navigate her new relationship and resolve past issues.",
+        "published date": "October 18, 2022",
+        "rating": "7/10"
+      },
+
+      {
+        "id": 16,
+        "name": "Karnali Blues",
+        "genre": "Novel, Bildungsroman, Coming-of-age story",
+        "author": "Buddhisagar",
+        "description": "Karnali Blues is a novel about a young man's journey through love and struggle in rural Nepal.",
+        "published date": "January 1, 2010",
+        "rating": "9/10"
+      },
+
+      {
+        "id": 17,
+        "name": "Gauri",
+        "genre": "Poetry",
+        "author": "Madhav Prasad Ghimire",
+        "description": "Gauri is an extra-ordinary tale about the life and death of this wife.",
+        "published date": "January 1, 1958",
+        "rating": "9/10"
+      },
+
+      {
+        "id": 18,
+        "name": "Siddhartha",
+        "genre": "Spirituality, Fiction, Philosophy",
+        "author": "Hermann Hesse",
+        "description": "Siddhartha is a novel that deals with the spiritual journey of self-discovery",
+        "published date": "October 1, 1922",
+        "rating": "9/10"
+      },
+
+      {
+        "id": 19,
+        "name": "Tell Me A Story",
+        "genre": "Fiction, Contemporary romance",
+        "author": "Ravinder Singh",
+        "description": "Tell Me a Story is about a man who finds solace and meaning through storytelling during a personal crisis.",
+        "published date":"July 23 2015",
+        "rating": "7/10"
+      },
+
+      {
+        "id": 20,
+        "name": "Secrets At The Malory Towers",
+        "genre": "Fiction, Contemporary romance",
+        "author": "Enid Blyton",
+        "description": "Secrets at Malory Towers is novel about a group of girls at a boarding school who uncover various mysteries, highlighting friendship.",
+        "published date":"September 7, 2009",
+        "rating": "7/10"
+      },
+
+      {
+        "id": 21,
+        "name": "चिना हराएको मान्छे",
+        "genre": "Autobiography, Memoir",
+        "author": "Hari Bansha Acharya",
+        "description": "चिना हराएको मान्छे is an autobiogrpahy of a simple godfearing man who happens to loose his cheena.",
+        "published date":"April 1, 2013",
+        "rating": "8/10"
+      },
+
+      {
+        "id": 21,
+        "name": "महकाे म",
+        "genre": "Autobiography, Memoir",
+        "author": "Madan Krishna Shrestha",
+        "description": "महकाे म is an autobiogrpahy that throws light on the unseen side of life of one of the most eminent entertainer.",
+        "published date":"September 1, 2017",
+        "rating": "8/10"
+      },
+
+      {
+        "id": 22,
+        "name": "I am Malala",
+        "genre": "Autobiography, Feminism, Memoir",
+        "author": "Malala Yousafzai",
+        "description": "I am Malala is a remarkable tale of a family uprooted by global terrorism, of the fight for girls' education.",
+        "published date":"November 1, 2012",
+        "rating": "8/10"
+      },
+
+      {
+        "id": 23,
+        "name": "Beautiful World, Where Are You",
+        "genre": "Fiction, Contemporary, Romance",
+        "author": "Sally Rooney",
+        "description": ".....",
+        "published date":"September 7, 2021",
+        "rating": "....."
+      },
+
+      {
+        "id": 24,
+        "name": "The Postcard",
+        "genre": "Fiction, Chick Lit, Romance",
+        "author": "Fern Britton",
+        "description": ".....",
+        "published date":"April 21, 2016",
+        "rating": "....."
+      },
+
+      {
+        "id": 25,
+        "name": "War and Peace",
+        "genre": "Historical novel, Historical Fiction, Saga, War story, Philosophy",
+        "author": "Leo Tolstoy",
+        "description": ".....",
+        "published date":"January 1, 1869",
+        "rating": "....."
+      }
+]
